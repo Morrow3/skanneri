@@ -1,4 +1,4 @@
-#tulostaa lähiverkon ARP:it.
+#tulostaa lähiverkon MAC:it.
 import arp
 #etsittävien osoitteiden alkuosa
 ip = "192.168.0."
